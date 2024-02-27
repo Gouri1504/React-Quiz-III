@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "question": "What is the name of the Hindu festival celebrated to mark the victory of light over darkness and good over evil?",
+        "optionA": "Diwali",
+        "optionB": "Holi",
+        "optionC": "Navrathri",
+        "optionD": "Dusshera",
+        "answer": "Diwali"
+    },
+    {
+        "id": 1,
+        "question": "In Hindu mythology, who is known as the destroyer of evil and the god of transformation?",
+        "optionA": "Brahma",
+        "optionB": "Vishnu",
+        "optionC": "Shiva",
+        "optionD": "Ganesh",
+        "answer": "Shiva"
+    },
+    {
+        "id": 2,
+        "question": "The sacred syllable 'Om' represents:",
+        "optionA": "Creation",
+        "optionB": "Preservation",
+        "optionC": "Destruction",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "id": 3,
+        "question": "The traditional greeting 'Namaste' in Hindu culture translates to:?",
+        "optionA": "Goodbye",
+        "optionB": "Hello",
+        "optionC": "Thank you",
+        "optionD": "Sorry",
+        "answer": "Hello"
+    },
+    {
+        "id": 4,
+        "question": "Which sacred Hindu text is composed of 700 verses and is considered a spiritual and philosophical guide?",
+        "optionA": "Ramayana",
+        "optionB": "Mahabharata",
+        "optionC": "Bhagavad Gita",
+        "optionD": "Upanishads",
+        "answer": "Bhagavad Gita"
+    }
+]
